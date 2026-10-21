@@ -2,7 +2,7 @@
 
 A machine learning web app that estimates the chance a reported TTC bus delay runs 10 minutes or more, based on route, direction, time of day, day of week, and month.
 
-**Live demo:** _add your Render link here_
+**Live demo:** (https://ttc-delay-predictor.onrender.com)
 
 _Add a screenshot here: `![screenshot](screenshot.png)`_
 
