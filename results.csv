@@ -1,0 +1,8 @@
+model,weather,accuracy,macro_f1,roc_auc
+baseline,no,0.723,0.42,0.5
+logreg,no,0.733,0.687,0.77
+random_forest,no,0.776,0.719,0.784
+hist_gb,no,0.776,0.723,0.798
+logreg,yes,0.726,0.683,0.769
+random_forest,yes,0.771,0.714,0.782
+hist_gb,yes,0.772,0.719,0.794

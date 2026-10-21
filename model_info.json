@@ -1,0 +1,8 @@
+{
+  "threshold": 10,
+  "base_rate": 0.707,
+  "n_rows": 99810,
+  "model": "hist_gb",
+  "test_accuracy": 0.772,
+  "test_roc_auc": 0.794
+}
