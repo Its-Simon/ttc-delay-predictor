@@ -4,7 +4,7 @@ A machine learning web app that estimates the chance a reported TTC bus delay ru
 
 **Live demo:** (https://ttc-delay-predictor.onrender.com)
 
-<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/67cee605-4446-486b-a785-a239da856a9d" />
+<img width="2000" height="1906" alt="image" src="https://github.com/user-attachments/assets/020cdb85-047f-4f0e-8a09-74eea685cd1d" />
 
 ## What it does
 
